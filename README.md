@@ -9,16 +9,31 @@
 
 ## Del 1 - Opgaver
 ### Opgave 1.
-TODO
+Lav en funktion, der udregner den euklidiske afstand mellem to punkter `p` og `q`. Punkterne  representeres som en tuple af `x` og `y` koordinaterne og afstanden kan udregnes vha. følgende formel:
+![distance](img/distance.gif)
 
-### Opgave 2.
-TODO
+**Skabelon**
+```python
+from math import sqrt
 
-### Opgave 3.
-TODO
+def distance(p, q):
+	pass
+
+print(distance((2,1),(4,1)))    # Output: 2.0
+print(distance((4,3),(3,20)))   # Output: 17.029...
+print(distance((14,10),(0,11))) # Output: 14.036...
+print(distance((13,18),(12,8))) # Output: 10.049...
+```
+
 
 ### Opgave 4.
-TODO
+TODO (Tupler)
+
+### Opgave 2.
+TODO (Flere return værdier)
+
+### Opgave 3.
+TODO (Keyword arguments)
 
 ## Del 2 - Opgaver
 ### Opgave 1.
@@ -34,7 +49,6 @@ print(is_sorted([17, 23, 27, 19, 31, 11])) # Output: False
 print(is_sorted([1, 24, 26, 30, 33]))      # Output: True
 print(is_sorted([9, 30, 39, 43, 43, 44]))  # Output: True
 print(is_sorted([18, 14, 16, 5, 25]))      # Output: False
-
 ```
 
 ### Opgave 2.
@@ -61,6 +75,8 @@ Lav en funktion, som tjekker hvorvidt et given tal `n` er et primtal. Det kan g�
 
 **Skabelon:**
 ```python
+from math import sqrt
+
 def is_prime(n):
 	pass
 
