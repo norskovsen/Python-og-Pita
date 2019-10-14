@@ -26,13 +26,13 @@ print(distance((13,18),(12,8))) # Output: 10.049...
 ```
 
 
-### Opgave 4.
+### Opgave 2.
 TODO (Tupler)
 
 ### Opgave 2.
 TODO (Flere return værdier)
 
-### Opgave 3.
+### Opgave 4.
 TODO (Keyword arguments)
 
 ## Del 2 - Opgaver
