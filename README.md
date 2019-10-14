@@ -29,7 +29,7 @@ print(distance((13,18),(12,8))) # Output: 10.049...
 ### Opgave 2.
 TODO (Tupler)
 
-### Opgave 2.
+### Opgave 3.
 TODO (Flere return værdier)
 
 ### Opgave 4.
