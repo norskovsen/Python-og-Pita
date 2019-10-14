@@ -17,7 +17,7 @@ Lav en funktion, der udregner den euklidiske afstand mellem to punkter `p` og `q
 from math import sqrt
 
 def distance(p, q):
-	pass
+    pass
 
 print(distance((2,1),(4,1)))    # Output: 2.0
 print(distance((4,3),(3,20)))   # Output: 17.029...
@@ -42,7 +42,7 @@ Lav en funktion, som tjekker hvorvidt en liste `lst` er sorteret.
 **Skabelon**
 ```python
 def is_sorted(lst):
-	pass
+    pass
 
 
 print(is_sorted([17, 23, 27, 19, 31, 11])) # Output: False
@@ -57,7 +57,7 @@ Lav en klasse som representerer en person. Den skal kunne printe en person med n
 **Skabelon:**
 ```python
 class Person:
-	pass
+    pass
 
 person1 = Person("Alice", 17)
 person2 = Person("Bob", 19)
@@ -78,7 +78,7 @@ Lav en funktion, som tjekker hvorvidt et given tal `n` er et primtal. Det kan g�
 from math import sqrt
 
 def is_prime(n):
-	pass
+    pass
 
 print(is_prime(7))  # Output: True
 print(is_prime(16)) # Output: False
@@ -92,7 +92,7 @@ Lav en funktion som laver bineær søgning over en liste og et element. Det vil 
 **Skabelon:**
 ```python
 def binary_search(lst, elm):
-	pass
+    pass
 
 print(binary_search([12, 13, 18, 28, 31, 33, 35, 37, 45, 47], 45))     # Output: 8
 print(binary_search([0, 2, 8, 12, 16, 17, 29, 32, 37, 39], 12))        # Output: 3
@@ -101,10 +101,10 @@ print(binary_search([3, 5, 12, 29, 31, 37], 31))                       # Output:
 ```
 
 ## Brugbare biblioteker
-- https://docs.python.org/3/library/math.html
-- http://mypy-lang.org/
-- https://www.sympy.org/en/index.html
-- https://docs.scipy.org/doc/numpy/reference/
-- https://matplotlib.org/contents.html
-- https://ipython.readthedocs.io/en/stable/
+- Math: https://docs.python.org/3/library/math.html
+- Mypy: http://mypy-lang.org/
+- Sympy: https://www.sympy.org/en/index.html
+- Numpy: https://docs.scipy.org/doc/numpy/reference/
+- Matplotlib: https://matplotlib.org/contents.html
+- iPython: https://ipython.readthedocs.io/en/stable/
 
