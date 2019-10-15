@@ -9,14 +9,14 @@
 
 ## Del 1 - Opgaver
 ### Opgave 1
-Lav en funktion, der vha. af `input` får to tal fra brugeren og printer resultatet ud i terminalen således:
+Lav en funktion, der vha. af `input` får to tal fra brugeren og printer resultatet ud i terminalen:
 ```
 The result of adding x with y is z
 ```
 Hvor `x+y = z`
 
 ### Opgave 2
-Lav en funktion, der udregner den euklidiske afstand mellem to punkter `p` og `q`. Punkterne  representeres som en tuple af `x` og `y` koordinaterne og afstanden kan udregnes vha. følgende formel:
+Lav en funktion, der udregner den euklidiske afstand mellem to punkter `p` og `q`. Punkterne representeres, som en tuple af `x` og `y` koordinaterne. Afstanden kan udregnes vha. følgende formel:
 ![distance](img/distance.gif)
 
 **Skabelon**
