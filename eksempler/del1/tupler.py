@@ -10,7 +10,7 @@ for name, grade in grade_pairs:
     if grade == 12:
         print(f"{name} got 12!")
 
-    if grade <= 0:
+    if grade == 0 or grade == -3:
         print(f"{name} failed the exam!")
 
 
