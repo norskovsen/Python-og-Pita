@@ -15,10 +15,10 @@ integrate(g0, (x, 0, 2))
 factor(g0) # Faktoriserer g0
 
 # Løs for x: x² + x = x + 1
-solve(g,x+1)
+solve(Eq(g0,x+1))
 
 # Løs for x: x² + x = 0
-solve(g)
+solve(g0)
 
 g1 = (x - 2)*(x - 6)
 # Udvid g1

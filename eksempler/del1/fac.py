@@ -4,4 +4,5 @@ def fac(n):
         res *= i
     return res
 
-print(fac(int(input("fac> "))))
+while True:
+    print(fac(int(input("fac> "))))
