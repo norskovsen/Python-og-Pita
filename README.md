@@ -1,6 +1,7 @@
 # Python og Pita workshop
 - [Link til slides](https://bit.ly/2MDHOdR)
 - Kode eksempler ligger i `eksempler` mappen
+- Man kan også bruge følgende [notebook](https://colab.research.google.com/drive/18Ux2nuOxjlSxSdinqL0JHhgqL5dVqEoK)
 
 ## Installation af Python 3
 - **Windows:** https://realpython.com/installing-python/#windows
