@@ -1,4 +1,4 @@
-# Python og Pita workshop
+# Python og Pita workshop 2019
 - [Link til slides](https://bit.ly/2MDHOdR)
 - Kode eksempler ligger i `eksempler` mappen
 - Man kan også bruge følgende [notebook](https://colab.research.google.com/drive/18Ux2nuOxjlSxSdinqL0JHhgqL5dVqEoK)
